@@ -14,11 +14,11 @@ on:
       DEVICE_TREE_URL:
         description: 'DEVICE_TREE_URL'
         required: true
-        default: 'https://github.com/jumitenei/device_ares_change'
+        default: 'https://github.com/jumitenei/device_ares_a13'
       DEVICE_TREE_BRANCH:
         description: 'DEVICE_TREE_BRANCH'
         required: true
-        default: 'chopin'
+        default: 'main'
       DEVICE_PATH:
         description: 'DEVICE_PATH'
         required: true
